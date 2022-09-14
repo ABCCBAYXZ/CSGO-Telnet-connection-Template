@@ -1,5 +1,5 @@
 # CSGO Telnet connection Template
-a template for reading and writing in the CSGO console via a telnet connection
+a template for reading and writing in the CSGO console with a telnet connection
 
 # How to use
 1. Set the CS:GO launch options: -condebug & -netconport 2121 
