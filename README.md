@@ -8,7 +8,7 @@ a template for reading and writing in the CSGO console via a telnet connection
 ![launch options](https://i.postimg.cc/0QYN9nQW/cs.png)
 
 2. Now run the code
-3. CSGO should open now or updated if its already opened
+3. CSGO should open now or update if its already opened
 4. if you can read "Connected" in your CSGO console everything went right
 
 # Basic Commands
