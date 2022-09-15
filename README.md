@@ -2,7 +2,7 @@
 a template for reading and writing in the CSGO console with a telnet connection
 
 # How to use
-1. Set the CS:GO launch options: -condebug & -netconport 2121 
+1. Set the CS:GO launch options: -netconport 2121 
 [[How to do this?](https://help.steampowered.com/de/faqs/view/7D01-D2DD-D75E-2955)]
 
 ![launch options](https://i.postimg.cc/0QYN9nQW/cs.png)
