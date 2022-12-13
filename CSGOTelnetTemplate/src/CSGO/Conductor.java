@@ -29,7 +29,7 @@ public class Conductor {
 			getCsr().read();
 	}
 
-	//use this to check console output bytes vs your Text bytes useful for .equals
+	//use this to check console output bytes vs your Text bytes
 	@SuppressWarnings("unused")
 	private void debug(String line, String textToCheck) {
 		System.out.println("line bytes:" + Arrays.toString(line.getBytes()));
