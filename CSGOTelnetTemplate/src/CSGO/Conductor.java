@@ -31,9 +31,9 @@ public class Conductor {
 
 	//use this to check console output bytes vs your Text bytes useful for .equals
 	@SuppressWarnings("unused")
-	private void debug(String line, String TextToCheck) {
+	private void debug(String line, String textToCheck) {
 		System.out.println("line bytes:" + Arrays.toString(line.getBytes()));
-		System.out.println("TextToCheck bytes:" + Arrays.toString("Stop ".getBytes()));
+		System.out.println("TextToCheck bytes:" + Arrays.toString(textToCheck.getBytes()));
 	}
 	
 	private void close() {
